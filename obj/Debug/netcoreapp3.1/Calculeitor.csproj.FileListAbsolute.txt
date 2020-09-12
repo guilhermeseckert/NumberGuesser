@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.exe
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.deps.json
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.runtimeconfig.json
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.dll
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\bin\Debug\netcoreapp3.1\Calculeitor.pdb
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.dll
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.pdb
+C:\Users\Guilherme\source\repos\Calculeitor\Calculeitor\obj\Debug\netcoreapp3.1\Calculeitor.genruntimeconfig.cache
